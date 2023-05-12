@@ -1,0 +1,24 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	border: none;
+}
+.main-container{
+	background-color: gray;
+	padding: 50px;
+	text-align: center;
+
+}
+.block-new {
+	width: 760px;
+	height: 170px;
+	background-color: white;
+	padding-left: 20px;
+	padding-top: 10px;
+	overflow: hidden;
+}
+.block-new img {
+	width: 180px;
+	height: 160px;
+	float: left;
+}
